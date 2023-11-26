@@ -1,0 +1,5 @@
+# Housing_Electricity_Consumption_ADAML_Project_2
+Project source codes for Advanced Data Analysis and Machine Leaning Course Project
+According to [1], electric power consumption of households is an important factor for energy planning and management, as well as for understanding the environmental impact of electricity use. In this report, we aim to analyze and forecast the electric power consumption given data from one household with a one-minute sampling rate over a period of almost four years (between December 2006 and November 2010). The data set we use is the Individual household electric power consumption Data Set from the UCI Machine Learning Repository [2] . It contains 2,075,259 measurements of different electrical quantities and some sub-metering values that indicate the energy consumption of specific appliances. The data set also contains some missing values (nearly 1.25% of the rows), which we will visualize and handle in the data preprocessing step. 
+
+# link to data : https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set/data
